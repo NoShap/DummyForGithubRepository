@@ -13,6 +13,7 @@
 @end
 
 @implementation ViewController
+@synthesize something; 
 
 - (void)viewDidLoad {
   [super viewDidLoad];
